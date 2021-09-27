@@ -5,3 +5,6 @@ HTML
 CSS
 Soft Skills
 Back-end
+Phyton
+JavaScript
+
